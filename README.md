@@ -1,6 +1,6 @@
 # Alter's E7 AI Slop
 
-Whalecome to my Vibe-Coded AI slop for our Weekly Mocks
+Whalecome to my Vibe-Coded AI slop for our Weekly Mocks.
 I will try to update this weekly, so just come by and check wats new.
 
 Feel free to just drop by and hang out. The purpose is just to have fun anywaysss
