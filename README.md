@@ -1,8 +1,27 @@
-# Whalecome to Alter's E7 AI slop
+# Alter's E7 AI Slop
 
-There are likely only a few files tat u need to view:
-- themes.txt
-- hero_stats_sorted.txt
-- banned_heros.txt (TBC)
+Whalecome to my Vibe-Coded AI slop for our Weekly Mocks
+I will try to update this weekly, so just come by and check wats new.
 
-I will keep this page updated for our weekly mock battles so just check back or ask mi bout anythings
+---
+
+## Weekly Mock Battles
+
+We are planning to have regular-ish weekly mock sessions.
+We will alternate between Themed and Standard Mock battles.
+- Themed Mock battles will be determined from the themes.txt list by RNG wheel.
+- Standard mock will have 2 global bans on that week (Player Voted)
+
+---
+
+## Banned Heroes
+
+*(TBC — list coming soon)*
+
+---
+
+## Coming Soon
+
+- Banned heroes list per mock battle theme
+
+---
