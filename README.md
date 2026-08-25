@@ -17,8 +17,7 @@ We will alternate between Themed and Standard Mock battles.
 ---
 
 ## Suggestions for more Themes
-If yall have suggestions for more themes, plz fill in the form below:
-[Suggestion Form](https://docs.google.com/forms/d/e/1FAIpQLSccTZr4CluioHwRNxNjbK13JWEsNYPXNR1zJ125JgjKau_Fow/viewform?usp=header)
+If yall have suggestions for more themes, plz fill in the form: [Suggestion Form](https://docs.google.com/forms/d/e/1FAIpQLSccTZr4CluioHwRNxNjbK13JWEsNYPXNR1zJ125JgjKau_Fow/viewform?usp=header)
 
 ---
 
