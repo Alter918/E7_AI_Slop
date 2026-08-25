@@ -1,4 +1,4 @@
-Whalecome to Alter's E7 AI slop
+# Whalecome to Alter's E7 AI slop
 
 There are likely only a few files tat u need to view:
 - themes.txt
