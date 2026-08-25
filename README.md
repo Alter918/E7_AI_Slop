@@ -11,7 +11,7 @@ Feel free to just drop by and hang out. The purpose is just to have fun anywayss
 
 ## Banned Heroes
 
-[Banned Hero List](./banned_hero_list.txt)
+[Banned Hero List](./banned_heros.txt)
 
 ---
 
