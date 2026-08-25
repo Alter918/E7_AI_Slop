@@ -22,6 +22,6 @@ We will alternate between Themed and Standard Mock battles.
 
 ## Coming Soon
 
-- Banned heroes list per mock battle theme
+- Banned heroes list (Will update weekly)
 
 ---
