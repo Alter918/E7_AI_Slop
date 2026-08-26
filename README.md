@@ -6,7 +6,7 @@ I will try to update this weekly, so just come by and check wats new.
 Feel free to just drop by and hang out. The purpose is just to have fun anywaysss
 
 ### THIS WEEK WILL BE THEMED BATTLE WITH THE THEME: 
-#### Heros with <3% usage in RTA
+### Heros with <3% usage in RTA
 
 ---
 
