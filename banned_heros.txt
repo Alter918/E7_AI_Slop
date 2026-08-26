@@ -43,3 +43,4 @@ Rank  Hero Name                                Usage Rate  Win Rate  Ban Rate
 41    Afternoon Soak Flan                           3.49%    47.22%    28.09%
 42    Saria                                         3.34%    46.67%    35.44%
                
+Lisette is also banned
