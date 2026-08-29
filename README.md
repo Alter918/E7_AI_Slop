@@ -37,8 +37,8 @@ If yall have suggestions for more themes, plz fill in the form: [Suggestion Form
 If yall have any feedback, can also include it in this form: [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSchqgn8WgCuyum1IQFQ7sorkQBhhviachJdg3WXNi-VlLyCgw/viewform?usp=header)
 
 ---
-## Coming Soon
+## Clips of our mock battles
 
-- Banned heroes list (Will update weekly)
+- [utube channel desuwa](https://www.youtube.com/@Alter-Desu)
 
 ---
