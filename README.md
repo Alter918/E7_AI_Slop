@@ -13,7 +13,7 @@ Voting for Global Bans is underway
 ## Banned Heroes
 
 Voting for Global Bans is underway
-//[Banned Hero List](./banned_heros.txt)
+<!--[Banned Hero List](./banned_heros.txt)-->
 
 ---
 
