@@ -5,15 +5,14 @@ I will try to update this weekly, so just come by and check wats new.
 
 Feel free to just drop by and hang out. The purpose is just to have fun anywaysss
 
-### THIS WEEK'S 05/09/2026 WILL BE STANDARD MOCK WITH 2 GLOBAL BANS
-Voting for Global Bans is underway
+### THIS WEEK'S 12/09/2026 WILL BE THEMED MOCK: COVENANT RGB ONLY
 
 ---
 
 ## Banned Heroes
 
-Voting for Global Bans is underway
-<!--[Banned Hero List](./banned_heros.txt)-->
+<!--Voting for Global Bans is underway-->
+[Banned Hero List](./banned_heros.txt)
 
 ---
 
